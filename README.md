@@ -1,11 +1,3 @@
-# krak
+# eslint-in-monorepo
 
-'Krak' workspace
-
-## TOODS
-
-할 일
-
-- [ ] utils
-- [ ] react
-- [ ] types
+모노레포 환경에서 ESLint 9 구성
